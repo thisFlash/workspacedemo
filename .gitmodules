@@ -1,0 +1,3 @@
+[submodule "projects/reactdemo"]
+path=projects/reactdemo
+url=https://github.com/thisFlash/reactdemo.git
